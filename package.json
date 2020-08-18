@@ -3,5 +3,8 @@
   "version": "21.0.0",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
   "author": "Vinh",
-  "license": "GPL-2.0-or-later"
+  "license": "GPL-2.0-or-later",
+  "dependencies": {
+    "@lamquangvinh8888/custom-ck": "0.0.1"
+  }
 }
