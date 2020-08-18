@@ -1,6 +1,6 @@
 {
-  "name": "@lamquangvinh8888/custom-ck",
-  "version": "0.0.1",
+  "name": "@lamquangvinh8888/ckeditor5-build-classic",
+  "version": "1.0.0",
   "description": "Vinh lam editor",
   "main": "./build/ckeditor.js",
   "files": [
@@ -19,6 +19,7 @@
     "@ckeditor/ckeditor5-easy-image": "^21.0.0",
     "@ckeditor/ckeditor5-editor-classic": "^21.0.0",
     "@ckeditor/ckeditor5-essentials": "^21.0.0",
+    "@ckeditor/ckeditor5-font": "^21.0.0",
     "@ckeditor/ckeditor5-heading": "^21.0.0",
     "@ckeditor/ckeditor5-image": "^21.0.0",
     "@ckeditor/ckeditor5-indent": "^21.0.0",

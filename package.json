@@ -5,6 +5,7 @@
   "author": "Vinh",
   "license": "GPL-2.0-or-later",
   "dependencies": {
+    "@ckeditor/ckeditor5-font": "^21.0.0",
     "@lamquangvinh8888/custom-ck": "0.0.1"
   }
 }
