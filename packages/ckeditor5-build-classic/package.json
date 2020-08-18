@@ -1,6 +1,6 @@
 {
   "name": "@lamquangvinh8888/ckeditor5-build-classic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vinh lam editor",
   "main": "./build/ckeditor.js",
   "files": [
