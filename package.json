@@ -1,0 +1,7 @@
+{
+  "name": "@lamvinh/ckeditor5-build-classic",
+  "version": "21.0.0",
+  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
+  "author": "Vinh",
+  "license": "GPL-2.0-or-later"
+}
